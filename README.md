@@ -1,6 +1,6 @@
 # Continuous Integration and Continuous Delivery (CI/CD) – Final Project - Peer Reviewed - IBM
 
-This project demonstrates a complete **CI/CD pipeline** using GitHub Actions, Tekton, and OpenShift. It is part of the **IBM Hands-on Lab: Continuous Integration and Continuous Delivery (CI/CD)** and showcases best practices for automating testing, building, and deployment of applications.
+This project was successfully completed by me. It Demonstrates a complete **CI/CD pipeline** using GitHub Actions, Tekton, and OpenShift. It is part of the **IBM Hands-on Lab: Continuous Integration and Continuous Delivery (CI/CD)** and showcases best practices for automating testing, building, and deployment of applications.
 
 ---
 
@@ -69,6 +69,7 @@ This project demonstrates a complete **CI/CD pipeline** using GitHub Actions, Te
 ---
 <img width="956" height="510" alt="2" src="https://github.com/user-attachments/assets/aac01f04-1c2e-4cc3-a6cf-b928137ef96c" />
 
+---
 <img width="956" height="511" alt="4" src="https://github.com/user-attachments/assets/6d24fd4d-c680-4bc1-a072-1a71ba268824" />
 
 ## 🚀 How to Run
