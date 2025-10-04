@@ -1,6 +1,6 @@
-# Continuous Integration and Continuous Delivery (CI/CD) – Final Project
+# Continuous Integration and Continuous Delivery (CI/CD) – Final Project - Peer Reviewed - IBM
 
-This project demonstrates a complete **CI/CD pipeline** using GitHub Actions, Tekton, and OpenShift. It is part of the **IBM Skills Network Hands-on Lab: Continuous Integration and Continuous Delivery (CI/CD)** and showcases best practices for automating testing, building, and deployment of applications.
+This project demonstrates a complete **CI/CD pipeline** using GitHub Actions, Tekton, and OpenShift. It is part of the **IBM Hands-on Lab: Continuous Integration and Continuous Delivery (CI/CD)** and showcases best practices for automating testing, building, and deployment of applications.
 
 ---
 
@@ -15,9 +15,6 @@ This project demonstrates a complete **CI/CD pipeline** using GitHub Actions, Te
 ├── app.py # Sample application code
 ├── requirements.txt # Python dependencies
 └── README.md # Project documentation
-
-markdown
-Copy code
 
 ---
 
@@ -70,6 +67,9 @@ Copy code
    - Verifies the application runs successfully in a production-like environment.
 
 ---
+<img width="956" height="510" alt="2" src="https://github.com/user-attachments/assets/aac01f04-1c2e-4cc3-a6cf-b928137ef96c" />
+
+<img width="956" height="511" alt="4" src="https://github.com/user-attachments/assets/6d24fd4d-c680-4bc1-a072-1a71ba268824" />
 
 ## 🚀 How to Run
 
@@ -104,6 +104,8 @@ Learned to integrate GitHub Actions, Tekton tasks, and OpenShift pipelines.
 Applied best practices in unit testing, linting, and automated deployment.
 
 Understood modular pipeline design for scalability and maintainability.
+
+<img width="485" height="377" alt="10" src="https://github.com/user-attachments/assets/1c7329f0-e030-4479-8522-556a0b86ad5c" />
 
 ## 🙌 Acknowledgements
 IBM Skills Network Hands-on Lab: Continuous Integration and Continuous Delivery (CI/CD)
